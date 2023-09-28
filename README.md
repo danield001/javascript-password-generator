@@ -8,7 +8,6 @@ The JavaScript Password Generator allows for users to set specific parameters fo
 
 ## Usage 
 The JavaScript Password Generator will allow the user to select the parameters of their new unique password by setting the length, and the number, AlphaUpper and Symbol parameters. This can allow users to set the parameters for certain sites which may have password restrictions.
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/danieldaminato/bootcamp/javascript-password-generator/assets/Screenshot%25202023-09-28%2520at%25204.57.32%2520pm.png?version%253D1695886189082)
 
 ## Contributors
 If you wish to contribute to the page, follow installation process and create a local repository. From here, you can push changes to a branch, and these changes can be moderated before being published to the live site. 
